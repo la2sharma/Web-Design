@@ -1,0 +1,269 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top
+{
+	background-color:#930002;
+	color:white;
+	padding:15px;
+
+}
+.topr
+{
+	text-align-last: right;
+}
+.cources
+{
+	background-color: #FAFAFA;
+}
+.logo
+{
+	height:70px;
+	width:170px;
+	margin:15px;
+}
+.cources ul
+{
+	list-style: none;
+	padding-top:15px;
+	padding-left:100px;
+	
+	
+}
+.cources ul li
+{
+	float: left;
+	padding:25px;
+}
+.cources ul li:hover
+{
+	background-color: #930002;
+    color:white;
+}
+
+.border1
+{
+    width: 35px;
+    height:0px;
+    border-bottom:double maroon;
+	margin-left:75px;
+	
+	
+}
+
+.border2
+{
+	width:60px;
+    height:10px;
+    border-bottom:double maroon;
+	margin-left:63px;
+	margin-bottom:20px;
+	
+	
+}
+.certification 
+{
+	font-family: 'Yantramanav', sans-serif; 
+    
+	margin-top:30px;
+	margin-left:15px;
+}
+.certificates
+{
+	margin-top:0px;
+	
+}
+
+.certificates img
+{
+	width:170px;
+	height:50px;
+}
+.cource
+{
+	Background-color:#f6f6f6;
+	padding-top:40px;
+}
+.courcelist
+{
+	background-color: #EFEFEF;
+	MARGIN-TOP:30px;
+}
+.PCHead
+{
+		font-family: 'Yantramanav', sans-serif; 
+	padding-left: 50px;
+}
+.boxes
+{
+	border:solid #d9d9d9;
+	background-color:white;
+	margin-top:20px;
+}
+
+.courceimg img
+{
+	width:100%;
+	height:100px;
+}
+	
+.courcename
+{
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-left:20px;
+	color:#930002;
+	padding-top:15px;
+} 
+
+.courcedis
+{
+	padding:20px;
+}
+	 
+.border3
+{
+    width: 35px;
+    height:0px;
+    border-bottom:double maroon;
+	margin-left:44px;
+	
+}
+
+.border4
+{
+	width:60px;
+    height:10px;
+    border-bottom:double maroon;
+	margin-left:33px;
+	margin-bottom:20px;
+	
+	
+}
+.button
+{
+	Width:200px;
+	height:50px;
+	background-color: #930002;
+	color:white;
+	margin-bottom:25px;
+
+}
+.buttondiv
+{
+	padding-left:0px; 
+	padding-top: 20px;
+}
+
+.button:hover
+{
+	background-color: black;
+}
+
+.whoweare
+{
+	font-family: 'Open Sans', sans-serif;
+	padding-top:30px;
+	color:#990000;
+}
+
+.border5
+{
+    width: 60px;
+    height:0px;
+    border-bottom:double maroon;
+	margin-left:3px;
+
+	
+	
+}
+
+.border6
+{
+	width:60px;
+    height:10px;
+    border-bottom:double maroon;
+	margin-left:20px;
+	margin-bottom:20px;
+	
+}
+
+.greyp
+{
+	
+	color:grey;
+	padding-top:0px;
+	line-height: 30px;
+}
+
+.subwwa
+{
+	font-family: 'Open Sans Condensed', sans-serif;
+	
+	padding-top:15px;
+	color:#990000;
+}
+
+.missions
+{
+	width:60%;
+	
+	padding-top:20px;
+	color:grey;
+}
+
+.missions ul
+{
+	list-style:none;
+	
+}
+
+.missions ul li
+{
+	padding-top:10px;
+}
+.check
+{
+	background-color: aquamarine;
+}
+.asp
+{
+	width:200px;
+	Height:200px;
+}
+.red
+{
+    color:red;
+}
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 30px;
+	margin-top:50px;
+	border: 1px solid GREY;
+}
+.sendbtn
+{
+	width:115px;
+	height:45px;
+	background-color: #930002;
+	color:white;
+	margin-left:70px;
+}
+.aspc
+{
+	background-color: #EFEFEF;
+	
+}
+.asp
+{
+	width: 450px;
+	height:390px;
+	margin-top:20px;
+	border-radius:10px;
+	border:solid white;
+	
+}
+.pmkvy
+{
+	color:#484848;
+}
